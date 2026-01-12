@@ -2,6 +2,8 @@
 
 This repository provides the official implementation of the paper: *Asymmetry Vulnerability and Physical Attacks on Online Map Construction for Autonomous Driving* (CCS 2025).
 
+> 📦 **Note:** A directly runnable version with pre-configured environment is available at [Zenodo](https://zenodo.org/records/17116870).
+
 Our attack framework consists of two main components:
 
 - **Asymmetry scene identification**.
@@ -132,7 +134,7 @@ mapattack_artifact/
 ### Step 1: Asymmetry scene identification
 
 - Please follow the instructions in [dataset_processing/README.md](dataset_processing/README.md). 
-- Or you can directly use our processed dataset at [dataset/](dataset/) (recommended).
+- Or you can directly [download](https://drive.google.com/file/d/1g6Ob-8cTARO2LU-oMO1E1m-eeVVQGovr/view?usp=sharing) and use our processed dataset at [dataset/](dataset/) (recommended).
 
 ### Step 2: Physical attacks
 
