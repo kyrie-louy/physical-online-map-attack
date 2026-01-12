@@ -2,10 +2,6 @@ data/
 dataset/
 ckpts/
 
-# API keys
-api.txt
-dataset_processing/api.txt
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
